@@ -1,0 +1,7 @@
+uglify: {
+	build: {
+		files: {
+			'build/js/base.min.js': ['assets/js/base.js']
+		}
+	}
+}

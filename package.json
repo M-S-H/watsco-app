@@ -1,0 +1,16 @@
+{
+	"name" : "habu-prototype",
+	"version" : "0.1.0",
+	"private" : true,
+
+	"devDependencies" : {
+		"grunt":						"~0.4.0",
+		"grunt-ember-templates":		"*",
+		"grunt-contrib-cssmin":			"*",
+		"grunt-cssc":					"*",
+		"grunt-contrib-sass":			"*",
+		"grunt-contrib-uglify":			"*",
+		"grunt-contrib-watch":			"*",
+		"matchdep":						"*"
+	}
+}
